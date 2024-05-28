@@ -147,7 +147,7 @@ nav {
 #encabezado {
   margin-top: 0;
   background-image: url("../imgs/banner.jpg");
-  width: 100%;
+  width: 105%;
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -430,10 +430,7 @@ footer i:hover {
 @media (min-width: 1200px){
 
   /* GENERAL */
-  
-  * {
-    scrollbar-width: 1000px;
-  }
+
   .escritorio {
     display: flex;
   }
